@@ -9,8 +9,7 @@ Furthermore, I want to learn how to write fuzzers and use them against drivers t
 
 In addition, I want to receive training in creating offensive capabilites akin to creating Kernel/UEFI/Hardware-based rootkits. 
 
-I am 26 years old, and I'm UK-based. If your company isn't UK based, I can do a remote internship. 
-
+I am 26 years old, and I'm UK-based.
 If you're a recruiter, contact me at: Panoptes_blog@hotmail.com/If you have any other email of mine, please do not hesitate contact me. 
 
 Hope you had as much fun looking through my code/reading my articles as I did creating them.
